@@ -6,7 +6,11 @@ The app performs simple product lookups using the **OpenFoodFacts public API** a
 
 Screenshot (app UI):
 
+<img width="377" height="801" alt="Screenshot 2025-10-29 085515" src="https://github.com/user-attachments/assets/84eff384-99f1-491f-8806-c7ae3068cabe" />
 
+<img width="380" height="805" alt="Screenshot 2025-10-29 085350" src="https://github.com/user-attachments/assets/13b43bcf-c16e-48bd-a384-4d833ef5a2d9" />
+
+<img width="378" height="808" alt="Screenshot 2025-10-29 085200" src="https://github.com/user-attachments/assets/0e52c20b-a2bb-4918-ae15-44121a1b7b48" />
 
 ---
 
