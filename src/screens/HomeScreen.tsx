@@ -38,7 +38,7 @@ const HomeScreen = ({ navigation }: Props) => {
 
       <Text style={{ marginBottom: 8 }}>Enter barcode to lookup:</Text>
       <TextInput
-        placeholder="e.g. 737628064502"
+        placeholder="e.g. 7622201428501"
         style={styles.input}
         value={barcode}
         onChangeText={setBarcode}
